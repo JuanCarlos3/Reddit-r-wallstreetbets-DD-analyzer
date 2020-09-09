@@ -6,7 +6,12 @@ wsbtickerbot is another project that also works with the r/wallstreetbets subred
 
 Requires:
 Alpha Vantage API and account:https://www.alphavantage.co/documentation/
+
 Rake_NTLK library:https://github.com/csurfer/rake-nltk
+
 Vader Sentiment:https://github.com/RyanElliott10/wsbtickerbot/tree/master/vaderSentiment
+
 MatplotLib:https://github.com/matplotlib/matplotlib
+
 Reddit Praw API:https://praw.readthedocs.io/en/latest/
+
