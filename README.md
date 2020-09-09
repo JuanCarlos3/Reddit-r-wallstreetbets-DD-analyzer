@@ -7,7 +7,8 @@ wsbtickerbot is another project that also works with the r/wallstreetbets subred
 
  
  
-Requires:
+Requires
+
 Alpha Vantage API and account:https://www.alphavantage.co/documentation/
 
 Rake_NTLK library:https://github.com/csurfer/rake-nltk
